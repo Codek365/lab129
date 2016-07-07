@@ -29,7 +29,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://lab129.host',
 
     /*
     |--------------------------------------------------------------------------
@@ -81,7 +81,7 @@ return [
     |
     */
 
-    'key' => 'Yuj6Jwz3LXxn2GtdpKieNH8VQ5ks4zjQ',
+    'key' => 'MlQwpP06rjLrxet9i6xAMq6UerR2ccDr',
 
     'cipher' => 'AES-256-CBC',
 
